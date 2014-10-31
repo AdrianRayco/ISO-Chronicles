@@ -1,0 +1,459 @@
+<manifest alg="2" build="328" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1414677545626">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="part-2.css" crc="416456503" ref="part-2"/>
+    <file name="iefonts_part-2.css" crc="3854152553" ref="part-2"/>
+    <file name="part-1.css" crc="4060713645" ref="part-1"/>
+    <file name="iefonts_part-1.css" crc="3898952465" ref="part-1"/>
+    <file name="part-3.css" crc="516704772" ref="part-3"/>
+    <file name="iefonts_part-3.css" crc="4074297713" ref="part-3"/>
+    <file name="index.css" crc="4215652551" ref="index"/>
+    <file name="iefonts_index.css" crc="4037469126" ref="index"/>
+    <file name="part-4.css" crc="4268633126" ref="part-4"/>
+    <file name="iefonts_part-4.css" crc="135556954" ref="part-4"/>
+  </folder>
+  <folder name="assets">
+    <file name="snippet_30a62745b.idms" crc="4052707388" mt="1414652763000"/>
+    <file name="iso-implementation-plan_rev.pdf" crc="4099879115" mt="1400584926000"/>
+    <file name="qmpd-exhibit•tarp•2013-4.pdf" crc="4047510404" mt="1370239556000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="museutils.js" crc="212726984" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="pie.js" crc="3827607177" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="webpro.js" crc="114405901" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="musewpslideshow.js" crc="3797706250" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="jquery.museoverlay.js" crc="254250306" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="touchswipe.js" crc="12843993" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="jquery.scrolleffects.js" crc="519931148" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="musewpdisclosure.js" crc="4130026270" ref="index"/>
+    <file name="form_check.php" crc="303526209" ref="index"/>
+    <file name="form_throttle.php" crc="219462772" ref="index"/>
+    <file name="form-u1809.php" crc="163335864" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u530-4.png" crc="3772095481" ref="index"/>
+    <file name="dsc_4610.jpg" crc="3837574296" ref="index"/>
+    <file name="u243-3.png" crc="194381707" ref="index"/>
+    <file name="u535-4.png" crc="4169311567" ref="index"/>
+    <file name="u536-4.png" crc="4283479535" ref="index"/>
+    <file name="scan - fr rector (bigger).jpg" crc="4231338933" ref="index"/>
+    <file name="u544-6.png" crc="3827407231" ref="index"/>
+    <file name="u545-28.png" crc="71148559" ref="index"/>
+    <file name="father.png" crc="285818517" ref="index"/>
+    <file name="u3892-4.png" crc="3775279365" ref="index"/>
+    <file name="knight.png" crc="197786887" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1963.png" crc="519265592" ref="index"/>
+    <file name="u1963-a.png" crc="101958410" ref="index"/>
+    <file name="u1956.png" crc="467325191" ref="index"/>
+    <file name="u1956-a.png" crc="281965718" ref="index"/>
+    <file name="u1876-4.png" crc="4004824429" ref="index"/>
+    <file name="u1877-4.png" crc="3896221371" ref="index"/>
+    <file name="u1878-4.png" crc="3782067733" ref="index"/>
+    <file name="u1879-4.png" crc="3875513570" ref="index"/>
+    <file name="u1884-4.png" crc="3875513570" ref="index"/>
+    <file name="u1798-4.png" crc="3817676345" ref="index"/>
+    <file name="u1832-4.png" crc="4207163404" ref="index"/>
+    <file name="u1833-4.png" crc="532051465" ref="index"/>
+    <file name="u1834-4.png" crc="3761807638" ref="index"/>
+    <file name="u1835-4.png" crc="4004824429" ref="index"/>
+    <file name="untitled-u1787-fr.jpg" crc="257306353" ref="index"/>
+    <file name="roadmap (11)-u1908-fr.jpg" crc="96842456" ref="index"/>
+    <file name="quality management department •logo• 2012 11-2012 copy-u1900-fr.png" crc="499231613" ref="index"/>
+    <file name="roadmap (1)-u1747-fr.jpg" crc="430662815" ref="index"/>
+    <file name="u1746-7.png" crc="3859106763" ref="index"/>
+    <file name="roadmap (2)-u1773-fr.jpg" crc="140879016" ref="index"/>
+    <file name="roadmap (8)-u1924-fr.jpg" crc="4233154387" ref="index"/>
+    <file name="u1923-7.png" crc="3859106763" ref="index"/>
+    <file name="roadmap (6)-u1791-fr.jpg" crc="4262760249" ref="index"/>
+    <file name="kapihan_sa_qmpd-u1931-fr.jpg" crc="406336564" ref="index"/>
+    <file name="certificate of completion-znm lead auditor-u1789-fr.jpg" crc="4094991438" ref="index"/>
+    <file name="lalala-u1892-fr.jpg" crc="329685386" ref="index"/>
+    <file name="roadmap (10)-u1910-fr.jpg" crc="278519692" ref="index"/>
+    <file name="u2080-4.png" crc="3817676345" ref="index"/>
+    <file name="u2081-4.png" crc="4258046136" ref="index"/>
+    <file name="u2082-4.png" crc="193404870" ref="index"/>
+    <file name="u2083-4.png" crc="4004824429" ref="index"/>
+    <file name="u2084-4.png" crc="3896221371" ref="index"/>
+    <file name="roadmap (161)-u2172-fr.jpg" crc="4127421267" ref="index"/>
+    <file name="roadmap (17)-u2170-fr.jpg" crc="162517188" ref="index"/>
+    <file name="roadmap (14)-u2125-fr.jpg" crc="3844902172" ref="index"/>
+    <file name="iso_id-u2127-fr.jpg" crc="3883331348" ref="index"/>
+    <file name="iso_qo_qp_id-u2128-fr.jpg" crc="238208354" ref="index"/>
+    <file name="roadmap (15)-u2149-fr.jpg" crc="3986225608" ref="index"/>
+    <file name="roadmap (12)-u2108-fr.jpg" crc="3872502697" ref="index"/>
+    <file name="roadmap (13)-u2110-fr.jpg" crc="4275100908" ref="index"/>
+    <file name="episode 6 (9)-u2196-fr.jpg" crc="414703578" ref="index"/>
+    <file name="roadmap (18)-u2194-fr.jpg" crc="77827663" ref="index"/>
+    <file name="dsc_1608-u2173-fr.jpg" crc="3830622623" ref="index"/>
+    <file name="episode 7 (4)-u2197-fr.jpg" crc="300533753" ref="index"/>
+    <file name="u1221-4.png" crc="25659550" ref="index"/>
+    <file name="slit shadow 2 sharp.png" crc="510555609" ref="index"/>
+    <file name="u1816-17.png" crc="207625492" ref="index"/>
+    <file name="u1816-17-r.png" crc="3875887829" ref="index"/>
+    <file name="u1816-17-m.png" crc="3913451271" ref="index"/>
+    <file name="u1816-17-fs.png" crc="448110612" ref="index"/>
+    <file name="u1220-16.png" crc="215649388" ref="index"/>
+    <file name="world.png" crc="203225920" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="u3677-10.png" crc="4192935372" ref="index"/>
+    <file name="line-globe.png" crc="36612574" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="mobile.png" crc="74050681" ref="index:part-1:part-2:part-3:part-4"/>
+    <file name="u3686-4.png" crc="206066078" ref="index"/>
+    <file name="u3688-4.png" crc="504221141" ref="index"/>
+    <file name="u3687-4.png" crc="3812214847" ref="index"/>
+    <file name="part 1 section (1)-u1385-fr.jpg" crc="3791037073" ref="part-1"/>
+    <file name="letran iso logo 1in x 1in.png" crc="75493826" ref="part-1:part-2:part-3:part-4"/>
+    <file name="knight l.png" crc="4146966246" ref="part-1:part-2:part-3:part-4"/>
+    <file name="u1383-8.png" crc="239675740" ref="part-1"/>
+    <file name="u1380-4.png" crc="4035841556" ref="part-1"/>
+    <file name="u1381-6.png" crc="4184092468" ref="part-1"/>
+    <file name="u1382-10.png" crc="317179022" ref="part-1"/>
+    <file name="part 1 zands (4)-u2243-fr.jpg" crc="3919614473" ref="part-1"/>
+    <file name="part 1 zands (2)-u2250-fr.jpg" crc="353448919" ref="part-1"/>
+    <file name="o-knight.png" crc="208307048" ref="part-1:part-2:part-3:part-4"/>
+    <file name="part 1 zands (3)-u2257-fr.jpg" crc="475577490" ref="part-1"/>
+    <file name="part 1 zands (1)-u2258-fr.jpg" crc="220270313" ref="part-1"/>
+    <file name="u1487-11.png" crc="4051790781" ref="part-1"/>
+    <file name="u2340-4.png" crc="357723249" ref="part-1"/>
+    <file name="u1484-34.png" crc="4222496031" ref="part-1"/>
+    <file name="u1488-15.png" crc="4093475289" ref="part-1"/>
+    <file name="u1489-20.png" crc="456928172" ref="part-1"/>
+    <file name="u2281-11.png" crc="80951164" ref="part-1"/>
+    <file name="u2288-4.png" crc="25163144" ref="part-1"/>
+    <file name="u2289-4.png" crc="192787439" ref="part-1"/>
+    <file name="u2341-4.png" crc="3782482969" ref="part-1"/>
+    <file name="u1483-17.png" crc="73099189" ref="part-1"/>
+    <file name="u2342-4.png" crc="449727636" ref="part-1"/>
+    <file name="u2320-4.png" crc="3834268938" ref="part-1"/>
+    <file name="u2321-4.png" crc="125764373" ref="part-1"/>
+    <file name="part 1 guia (1)-u2325-fr.jpg" crc="4250687629" ref="part-1"/>
+    <file name="part 1 guia (2)-u2326-fr.jpg" crc="535112196" ref="part-1"/>
+    <file name="u1490-19.png" crc="361014240" ref="part-1"/>
+    <file name="u2343-4.png" crc="4062649963" ref="part-1"/>
+    <file name="part 1 guia (3)-u2345-fr.jpg" crc="222273857" ref="part-1"/>
+    <file name="part 1 guia (4)-u2346-fr.jpg" crc="3892384263" ref="part-1"/>
+    <file name="u2344-9.png" crc="399933328" ref="part-1"/>
+    <file name="u2363-7.png" crc="115025856" ref="part-1"/>
+    <file name="u2364-4.png" crc="25163144" ref="part-1"/>
+    <file name="u2365-4.png" crc="192787439" ref="part-1"/>
+    <file name="u1493-20.png" crc="4146217051" ref="part-1"/>
+    <file name="u2359-4.png" crc="4036266295" ref="part-1"/>
+    <file name="u2366-4.png" crc="4248294943" ref="part-1"/>
+    <file name="u2367-7.png" crc="206995603" ref="part-1"/>
+    <file name="part 1 merly (1)-u2371-fr.jpg" crc="4292458699" ref="part-1"/>
+    <file name="part 1 merly (2)-u2372-fr.jpg" crc="4234162217" ref="part-1"/>
+    <file name="u1485-10.png" crc="3826354993" ref="part-1"/>
+    <file name="u2385-4.png" crc="4275609114" ref="part-1"/>
+    <file name="part 1 merly (3)-u2387-fr.jpg" crc="3954912584" ref="part-1"/>
+    <file name="part 1 merly (4)-u2388-fr.jpg" crc="189428789" ref="part-1"/>
+    <file name="u2386-10.png" crc="4206098985" ref="part-1"/>
+    <file name="u2401-4.png" crc="314078906" ref="part-1"/>
+    <file name="u1486-43.png" crc="286498121" ref="part-1"/>
+    <file name="u2402-59.png" crc="4120082018" ref="part-1"/>
+    <file name="u2403-4.png" crc="152089134" ref="part-1"/>
+    <file name="u2405-9.png" crc="22267003" ref="part-1"/>
+    <file name="u2406-4.png" crc="25163144" ref="part-1"/>
+    <file name="u2407-4.png" crc="192787439" ref="part-1"/>
+    <file name="u2408-12.png" crc="4195070816" ref="part-1"/>
+    <file name="u2410-9.png" crc="4261371437" ref="part-1"/>
+    <file name="u2411-4.png" crc="162741908" ref="part-1"/>
+    <file name="u2412-7.png" crc="3765917534" ref="part-1"/>
+    <file name="part 1 gil kevs (1)-u2417-fr.jpg" crc="49844652" ref="part-1"/>
+    <file name="part 1 gil kevs (2)-u2418-fr.jpg" crc="434324275" ref="part-1:part-2"/>
+    <file name="u2416-10.png" crc="3826354993" ref="part-1"/>
+    <file name="u2431-5.png" crc="257510403" ref="part-1"/>
+    <file name="part 1 sa (4)-u2433-fr.jpg" crc="3793388110" ref="part-1"/>
+    <file name="part 1 gil kevs (5)-u2434-fr.jpg" crc="4276548389" ref="part-1"/>
+    <file name="u2432-12.png" crc="4065254855" ref="part-1"/>
+    <file name="u2447-4.png" crc="3875774228" ref="part-1"/>
+    <file name="u2449-7.png" crc="3810273916" ref="part-1"/>
+    <file name="u2450-4.png" crc="25163144" ref="part-1"/>
+    <file name="u2451-4.png" crc="192787439" ref="part-1"/>
+    <file name="u2452-8.png" crc="3930202445" ref="part-1"/>
+    <file name="u2453-8.png" crc="3759049912" ref="part-1"/>
+    <file name="u2454-4.png" crc="234106880" ref="part-1"/>
+    <file name="u2456-7.png" crc="112070851" ref="part-1"/>
+    <file name="u2457-4.png" crc="25163144" ref="part-1"/>
+    <file name="u2458-4.png" crc="192787439" ref="part-1"/>
+    <file name="u2459-8.png" crc="450594152" ref="part-1"/>
+    <file name="u2460-5.png" crc="4107186303" ref="part-1"/>
+    <file name="u2461-4.png" crc="496808966" ref="part-1"/>
+    <file name="u2462-12.png" crc="4221659138" ref="part-1"/>
+    <file name="u2464-7.png" crc="3858136354" ref="part-1"/>
+    <file name="u2465-4.png" crc="25163144" ref="part-1"/>
+    <file name="u2466-4.png" crc="192787439" ref="part-1"/>
+    <file name="u2467-6.png" crc="3885508070" ref="part-1"/>
+    <file name="u2468-5.png" crc="4280442835" ref="part-1"/>
+    <file name="part 1 sa (1)-u2473-fr.jpg" crc="140537081" ref="part-1"/>
+    <file name="u2480-6.png" crc="4052083903" ref="part-1"/>
+    <file name="u2483-4.png" crc="3863526191" ref="part-1"/>
+    <file name="part 1 sa (2)-u2485-fr.jpg" crc="175500520" ref="part-1"/>
+    <file name="part 1 sa (3)-u2486-fr.jpg" crc="151129851" ref="part-1"/>
+    <file name="u2484-11.png" crc="4052463358" ref="part-1"/>
+    <file name="u2499-4.png" crc="3874979845" ref="part-1"/>
+    <file name="u2500-8.png" crc="3925490866" ref="part-1"/>
+    <file name="u2501-4.png" crc="90960075" ref="part-1"/>
+    <file name="u2503-7.png" crc="3772493852" ref="part-1"/>
+    <file name="u2504-4.png" crc="25163144" ref="part-1"/>
+    <file name="u2505-4.png" crc="192787439" ref="part-1"/>
+    <file name="u2506-12.png" crc="469076325" ref="part-1"/>
+    <file name="u3859-10.png" crc="4192935372" ref="part-1"/>
+    <file name="u3868-4.png" crc="206066078" ref="part-1"/>
+    <file name="u3870-4.png" crc="504221141" ref="part-1"/>
+    <file name="u3869-4.png" crc="3812214847" ref="part-1"/>
+    <file name="episode 9 (4).jpg" crc="338126899" ref="part-2"/>
+    <file name="u2525-15.png" crc="4103657488" ref="part-2"/>
+    <file name="u2526-4.png" crc="291494477" ref="part-2"/>
+    <file name="u2527-4.png" crc="4041739512" ref="part-2"/>
+    <file name="u2528-15.png" crc="3891564561" ref="part-2"/>
+    <file name="episode 1 (5)-u2529-fr.jpg" crc="503574930" ref="part-2"/>
+    <file name="episode 1 (1)-u2530-fr.jpg" crc="4170167454" ref="part-2"/>
+    <file name="episode 1 (2)-u2534-fr.jpg" crc="3940589869" ref="part-2"/>
+    <file name="episode 1 (4)-u2555-fr.jpg" crc="111367281" ref="part-2"/>
+    <file name="episode 1 (3)-u2556-fr.jpg" crc="109714203" ref="part-2"/>
+    <file name="u2554-24.png" crc="4109132044" ref="part-2"/>
+    <file name="u2570-7.png" crc="4275067430" ref="part-2"/>
+    <file name="u2571-4.png" crc="25163144" ref="part-2"/>
+    <file name="u2572-4.png" crc="192787439" ref="part-2"/>
+    <file name="u2573-9.png" crc="287173164" ref="part-2"/>
+    <file name="u2574-26.png" crc="107939330" ref="part-2"/>
+    <file name="u2575-4.png" crc="4256376241" ref="part-2"/>
+    <file name="u2576-4.png" crc="4266691556" ref="part-2"/>
+    <file name="quality management department •logo• 2012 11-2012 copy-u2580-fr.png" crc="31813664" ref="part-2"/>
+    <file name="kapihan_sa_qmpd-u2581-fr.jpg" crc="4220964143" ref="part-2"/>
+    <file name="u2589-26.png" crc="4124278313" ref="part-2"/>
+    <file name="u2605-15.png" crc="102424777" ref="part-2"/>
+    <file name="u2607-6.png" crc="3836639246" ref="part-2"/>
+    <file name="u2608-4.png" crc="25163144" ref="part-2"/>
+    <file name="u2609-4.png" crc="192787439" ref="part-2"/>
+    <file name="u2610-17.png" crc="3962668030" ref="part-2"/>
+    <file name="u2611-4.png" crc="4239385860" ref="part-2"/>
+    <file name="u2612-4.png" crc="4013682164" ref="part-2"/>
+    <file name="dsc05383-u2617-fr.jpg" crc="4215628115" ref="part-2"/>
+    <file name="u2616-15.png" crc="3974172761" ref="part-2"/>
+    <file name="episode 3 (1)-u2632-fr.jpg" crc="132968810" ref="part-2"/>
+    <file name="episode 3 (4)-u2633-fr.jpg" crc="135488044" ref="part-2"/>
+    <file name="u2631-11.png" crc="4114967668" ref="part-2"/>
+    <file name="u2646-9.png" crc="142190422" ref="part-2"/>
+    <file name="u2648-7.png" crc="506314276" ref="part-2"/>
+    <file name="u2649-4.png" crc="25163144" ref="part-2"/>
+    <file name="u2650-4.png" crc="192787439" ref="part-2"/>
+    <file name="u2651-5.png" crc="4160799196" ref="part-2"/>
+    <file name="u2652-8.png" crc="4123221066" ref="part-2"/>
+    <file name="u2654-7.png" crc="153081145" ref="part-2"/>
+    <file name="u2655-4.png" crc="25163144" ref="part-2"/>
+    <file name="u2656-4.png" crc="192787439" ref="part-2"/>
+    <file name="slide3-u2658-fr.jpg" crc="4199444426" ref="part-2"/>
+    <file name="slide1-u2659-fr.jpg" crc="3760318336" ref="part-2"/>
+    <file name="u2657-10.png" crc="258406240" ref="part-2"/>
+    <file name="slide2-u2673-fr.jpg" crc="451298476" ref="part-2"/>
+    <file name="slide4-u2674-fr.jpg" crc="526321150" ref="part-2"/>
+    <file name="u2672-17.png" crc="3946504057" ref="part-2"/>
+    <file name="u2688-4.png" crc="4145222271" ref="part-2"/>
+    <file name="u2689-4.png" crc="4266902237" ref="part-2"/>
+    <file name="u2693-13.png" crc="3800796411" ref="part-2"/>
+    <file name="episode 4 (4)-u2694-fr.jpg" crc="34087152" ref="part-2"/>
+    <file name="episode 4 (5)-u2695-fr.jpg" crc="3886851917" ref="part-2"/>
+    <file name="episode 4 (7)-u2696-fr.jpg" crc="211204376" ref="part-2"/>
+    <file name="episode 4 (6)-u2728-fr.jpg" crc="160713083" ref="part-2"/>
+    <file name="dsc01442-u2729-fr.jpg" crc="4143031788" ref="part-2"/>
+    <file name="u2727-19.png" crc="3947437148" ref="part-2"/>
+    <file name="dsc_0217-u2743-fr.jpg" crc="3780039809" ref="part-2"/>
+    <file name="dsc_0132-u2744-fr.jpg" crc="160384641" ref="part-2"/>
+    <file name="u2742-12.png" crc="4200442620" ref="part-2"/>
+    <file name="u2757-9.png" crc="3869498188" ref="part-2"/>
+    <file name="u2759-7.png" crc="197532589" ref="part-2"/>
+    <file name="u2760-4.png" crc="25163144" ref="part-2"/>
+    <file name="u2761-4.png" crc="192787439" ref="part-2"/>
+    <file name="u2763-9.png" crc="256683709" ref="part-2"/>
+    <file name="u2764-10.png" crc="4284062311" ref="part-2"/>
+    <file name="u2765-9.png" crc="3920513365" ref="part-2"/>
+    <file name="u2767-7.png" crc="172593984" ref="part-2"/>
+    <file name="u2768-4.png" crc="25163144" ref="part-2"/>
+    <file name="u2769-4.png" crc="192787439" ref="part-2"/>
+    <file name="u2770-13.png" crc="3866268666" ref="part-2"/>
+    <file name="u2772-20.png" crc="3903217793" ref="part-2"/>
+    <file name="u2774-7.png" crc="4044400151" ref="part-2"/>
+    <file name="u2775-4.png" crc="25163144" ref="part-2"/>
+    <file name="u2776-4.png" crc="192787439" ref="part-2"/>
+    <file name="u2777-12.png" crc="304782989" ref="part-2"/>
+    <file name="u2779-7.png" crc="262808896" ref="part-2"/>
+    <file name="u2780-4.png" crc="25163144" ref="part-2"/>
+    <file name="u2781-4.png" crc="192787439" ref="part-2"/>
+    <file name="u2782-4.png" crc="83081976" ref="part-2"/>
+    <file name="u2783-32.png" crc="88806678" ref="part-2"/>
+    <file name="u2784-4.png" crc="128659928" ref="part-2"/>
+    <file name="u2785-4.png" crc="4045978492" ref="part-2"/>
+    <file name="episode 5 (1)-u2790-fr.jpg" crc="4002104541" ref="part-2"/>
+    <file name="episode 5 (4)-u2791-fr.jpg" crc="4206054028" ref="part-2"/>
+    <file name="u2789-12.png" crc="516507593" ref="part-2"/>
+    <file name="episode 5 (5)-u2812-fr.jpg" crc="274235536" ref="part-2"/>
+    <file name="episode 3 (3)-u2813-fr.jpg" crc="4115048779" ref="part-2"/>
+    <file name="untitled-u2805-fr.jpg" crc="3796674694" ref="part-2"/>
+    <file name="u2833-7.png" crc="3900222357" ref="part-2"/>
+    <file name="u2834-4.png" crc="25163144" ref="part-2"/>
+    <file name="u2835-4.png" crc="192787439" ref="part-2"/>
+    <file name="u2836-9.png" crc="77860852" ref="part-2"/>
+    <file name="u2837-6.png" crc="427561611" ref="part-2"/>
+    <file name="u2842-4.png" crc="235215191" ref="part-2"/>
+    <file name="u2843-4.png" crc="4187991328" ref="part-2"/>
+    <file name="asd-u2871-fr.jpg" crc="3820196833" ref="part-2"/>
+    <file name="u2878-6.png" crc="4148445371" ref="part-2"/>
+    <file name="episode 6 (13)-u2882-fr.jpg" crc="4281959867" ref="part-2"/>
+    <file name="dsc_0452-u2883-fr.jpg" crc="343874849" ref="part-2"/>
+    <file name="episode 6 (16)-u2884-fr.jpg" crc="4251383225" ref="part-2"/>
+    <file name="u2909-6.png" crc="4069319142" ref="part-2"/>
+    <file name="episode 6 (15)-u2913-fr.jpg" crc="96313141" ref="part-2"/>
+    <file name="episode 6 (14)-u2914-fr.jpg" crc="3909297640" ref="part-2"/>
+    <file name="u2912-16.png" crc="3815508429" ref="part-2"/>
+    <file name="asdggg.jpg" crc="3852169244" ref="part-2"/>
+    <file name="episode 6 (2)-u2941-fr.jpg" crc="3827289376" ref="part-2"/>
+    <file name="episode 6 (4)-u2940-fr.jpg" crc="399745379" ref="part-2"/>
+    <file name="u2939-12.png" crc="3982135016" ref="part-2"/>
+    <file name="episode 6 (5)-u2955-fr.jpg" crc="17792756" ref="part-2"/>
+    <file name="episode 6 (20)-u2956-fr.jpg" crc="160952070" ref="part-2"/>
+    <file name="u2954-9.png" crc="19508650" ref="part-2"/>
+    <file name="episode 6 (18)-u2975-fr.jpg" crc="4279539010" ref="part-2"/>
+    <file name="episode 6 (17)-u2976-fr.jpg" crc="3917246718" ref="part-2"/>
+    <file name="u2995-24.png" crc="204824059" ref="part-2"/>
+    <file name="episode 6 (23)-u2998-fr.jpg" crc="4175030277" ref="part-2"/>
+    <file name="dsc05639-u2999-fr.jpg" crc="398083285" ref="part-2"/>
+    <file name="u3000-15.png" crc="4041807403" ref="part-2"/>
+    <file name="episode 6 (22)-u3013-fr.jpg" crc="4205804502" ref="part-2"/>
+    <file name="dsc05571-u3014-fr.jpg" crc="145901784" ref="part-2"/>
+    <file name="u3015-12.png" crc="236142393" ref="part-2"/>
+    <file name="episode 6 (7)-u3031-fr.jpg" crc="449145876" ref="part-2"/>
+    <file name="episode 6 (11)-u3032-fr.jpg" crc="4044107321" ref="part-2"/>
+    <file name="episode 6 (6)-u3033-fr.jpg" crc="4082557053" ref="part-2"/>
+    <file name="episode 6 (12)-u3034-fr.jpg" crc="4157375865" ref="part-2"/>
+    <file name="u3059-12.png" crc="3881386093" ref="part-2"/>
+    <file name="u3060-15.png" crc="74360431" ref="part-2"/>
+    <file name="dsc_0309-u3061-fr.jpg" crc="4057183654" ref="part-2"/>
+    <file name="episode 6 (10)-u3063-fr.jpg" crc="96490053" ref="part-2"/>
+    <file name="dsc_0328-u3062-fr.jpg" crc="491140276" ref="part-2"/>
+    <file name="u3082-4.png" crc="4101926241" ref="part-2"/>
+    <file name="u3083-4.png" crc="303586943" ref="part-2"/>
+    <file name="lalala-u3087-fr.jpg" crc="120872247" ref="part-2"/>
+    <file name="zx-u3088-fr.jpg" crc="4176821362" ref="part-2"/>
+    <file name="u3098-15.png" crc="3833209059" ref="part-2"/>
+    <file name="u3099-47.png" crc="3946395905" ref="part-2"/>
+    <file name="zxczxc-u3100-fr.jpg" crc="4027750044" ref="part-2"/>
+    <file name="u3107-23.png" crc="426153207" ref="part-2"/>
+    <file name="figure1-u3118-fr.jpg" crc="178577860" ref="part-2"/>
+    <file name="figure2-u3125-fr.jpg" crc="200812996" ref="part-2"/>
+    <file name="figure3-u3132-fr.jpg" crc="15907778" ref="part-2"/>
+    <file name="u3139-4.png" crc="3820308576" ref="part-2"/>
+    <file name="u3140-7.png" crc="4264865992" ref="part-2"/>
+    <file name="dsc_1776-u3145-fr.jpg" crc="4142150464" ref="part-2"/>
+    <file name="tuvsud_logo-u3144-fr.jpg" crc="3782784129" ref="part-2"/>
+    <file name="u3158-8.png" crc="382221540" ref="part-2"/>
+    <file name="u3159-9.png" crc="3864451088" ref="part-2"/>
+    <file name="dsc_1296-u3160-fr.jpg" crc="4072985830" ref="part-2"/>
+    <file name="dsc_1735-u3161-fr.jpg" crc="4270984541" ref="part-2"/>
+    <file name="u3162-11.png" crc="3911244813" ref="part-2"/>
+    <file name="episode 8 (5)-u3176-fr.jpg" crc="3921836768" ref="part-2"/>
+    <file name="episode 8 (6)-u3175-fr.jpg" crc="86479356" ref="part-2"/>
+    <file name="u3177-16.png" crc="118347698" ref="part-2"/>
+    <file name="episode 8 (1)-u3191-fr.jpg" crc="251347918" ref="part-2"/>
+    <file name="episode 8 (9)-u3190-fr.jpg" crc="66661971" ref="part-2"/>
+    <file name="u3192-17.png" crc="4092602003" ref="part-2"/>
+    <file name="dsc_0358-u3206-fr.jpg" crc="164148658" ref="part-2"/>
+    <file name="roadmap (162)-u3205-fr.jpg" crc="422251305" ref="part-2"/>
+    <file name="u3207-12.png" crc="425616706" ref="part-2"/>
+    <file name="u3220-15.png" crc="4149886660" ref="part-2"/>
+    <file name="dsc_0076-u3221-fr.jpg" crc="452091159" ref="part-2"/>
+    <file name="dsc_0148-u3223-fr.jpg" crc="3886139579" ref="part-2"/>
+    <file name="dsc_1944-u3222-fr.jpg" crc="282284427" ref="part-2"/>
+    <file name="episode 8 (10)-u3244-fr.jpg" crc="3943526261" ref="part-2"/>
+    <file name="dsc_0434-u3243-fr.jpg" crc="506469150" ref="part-2"/>
+    <file name="u3245-14.png" crc="37529447" ref="part-2"/>
+    <file name="dsc_0499-u3258-fr.jpg" crc="4062718548" ref="part-2"/>
+    <file name="dsc_0040-u3260-fr.jpg" crc="293640713" ref="part-2"/>
+    <file name="episode 8 (8)-u3259-fr.jpg" crc="3902900290" ref="part-2"/>
+    <file name="dsc_1789-u3281-fr.jpg" crc="3902039394" ref="part-2"/>
+    <file name="u3261-18.png" crc="165146952" ref="part-2"/>
+    <file name="dsc_1781-u3280-fr.jpg" crc="3845311859" ref="part-2"/>
+    <file name="u3282-10.png" crc="112995087" ref="part-2"/>
+    <file name="iso_id-u3296-fr.jpg" crc="105393715" ref="part-2"/>
+    <file name="iso_qo_qp_id-u3295-fr.jpg" crc="451079365" ref="part-2"/>
+    <file name="u3303-13.png" crc="273847300" ref="part-2"/>
+    <file name="u3304-5.png" crc="266721556" ref="part-2"/>
+    <file name="u3305-4.png" crc="38566703" ref="part-2"/>
+    <file name="dsc_1679-u3310-fr.jpg" crc="4173057935" ref="part-2"/>
+    <file name="dsc_0514-u3309-fr.jpg" crc="118217332" ref="part-2"/>
+    <file name="u3311-14.png" crc="4033003249" ref="part-2"/>
+    <file name="u3324-11.png" crc="4186424624" ref="part-2"/>
+    <file name="episode 9 (1)-u3325-fr.png" crc="4270702215" ref="part-2"/>
+    <file name="u3327-5.png" crc="4211150410" ref="part-2"/>
+    <file name="tuv sud certification mark-u3328-fr.jpg" crc="3802638186" ref="part-2"/>
+    <file name="dsc_0530-u3348-fr.jpg" crc="3790980654" ref="part-2"/>
+    <file name="dsc_0562-u3349-fr.jpg" crc="4172429180" ref="part-2"/>
+    <file name="u3350-12.png" crc="290360901" ref="part-2"/>
+    <file name="letran diploma 2014-u3364-fr.jpg" crc="4294337178" ref="part-2"/>
+    <file name="dsc_0164-u3363-fr.jpg" crc="32897163" ref="part-2"/>
+    <file name="u3365-9.png" crc="508377414" ref="part-2"/>
+    <file name="dsc_0167-u3379-fr.jpg" crc="4048503953" ref="part-2"/>
+    <file name="dsc_0178-u3378-fr.jpg" crc="3967702127" ref="part-2"/>
+    <file name="u3380-12.png" crc="319901219" ref="part-2"/>
+    <file name="episode 9 (4)-u3394-fr.jpg" crc="451870933" ref="part-2"/>
+    <file name="episode 9 (2)-u3393-fr.jpg" crc="278226739" ref="part-2"/>
+    <file name="u3395-28.png" crc="4265891010" ref="part-2"/>
+    <file name="u3828-10.png" crc="4192935372" ref="part-2"/>
+    <file name="u3837-4.png" crc="206066078" ref="part-2"/>
+    <file name="u3839-4.png" crc="504221141" ref="part-2"/>
+    <file name="u3838-4.png" crc="3812214847" ref="part-2"/>
+    <file name="dsc_4633.jpg" crc="39690123" ref="part-3"/>
+    <file name="u3418-3.png" crc="132866307" ref="part-3"/>
+    <file name="u3417-12.png" crc="449847954" ref="part-3"/>
+    <file name="u3426-4.png" crc="3780755019" ref="part-3"/>
+    <file name="u3431-137.png" crc="153484827" ref="part-3"/>
+    <file name="u3797-10.png" crc="4192935372" ref="part-3"/>
+    <file name="u3806-4.png" crc="206066078" ref="part-3"/>
+    <file name="u3808-4.png" crc="504221141" ref="part-3"/>
+    <file name="u3807-4.png" crc="3812214847" ref="part-3"/>
+    <file name="dsc_46102.jpg" crc="3902970007" ref="part-4"/>
+    <file name="u3564-3.png" crc="132866307" ref="part-4"/>
+    <file name="u3572-14.png" crc="3793105579" ref="part-4"/>
+    <file name="u3579-5.png" crc="3776175851" ref="part-4"/>
+    <file name="u3584-4.png" crc="4262502537" ref="part-4"/>
+    <file name="u3582-8.png" crc="84742273" ref="part-4"/>
+    <file name="u3585-20.png" crc="4118491134" ref="part-4"/>
+    <file name="u3586-8.png" crc="353506707" ref="part-4"/>
+    <file name="tuvsud_logo-u3587-fr.jpg" crc="4038691838" ref="part-4"/>
+    <file name="u3589-7.png" crc="351785809" ref="part-4"/>
+    <file name="ched-ieu3590-fr.png" crc="305478372" ref="part-4"/>
+    <file name="ched.jpg" crc="3966321051" ref="part-4"/>
+    <file name="123-u3597-fr.jpg" crc="4115998025" ref="part-4"/>
+    <file name="u3588-16.png" crc="3815398505" ref="part-4"/>
+    <file name="u3615-4.png" crc="4182075216" ref="part-4"/>
+    <file name="pqa logo 13july2010-ieu3616-fr.png" crc="242387045" ref="part-4"/>
+    <file name="pqa logo 13july2010.jpg" crc="181128794" ref="part-4"/>
+    <file name="psq-ieu3617-fr.png" crc="214538223" ref="part-4"/>
+    <file name="psq.jpg" crc="143126576" ref="part-4"/>
+    <file name="u3614-15.png" crc="507811935" ref="part-4"/>
+    <file name="u3636-6.png" crc="3848213354" ref="part-4"/>
+    <file name="u3637-5.png" crc="9461353" ref="part-4"/>
+    <file name="u3642-5.png" crc="3778721107" ref="part-4"/>
+    <file name="u3641-10.png" crc="4182202613" ref="part-4"/>
+    <file name="u3644-5.png" crc="217688808" ref="part-4"/>
+    <file name="u3643-6.png" crc="3769769993" ref="part-4"/>
+    <file name="12345-u3646-fr.jpg" crc="4108439026" ref="part-4"/>
+    <file name="u3645-8.png" crc="155232099" ref="part-4"/>
+    <file name="u3654-4.png" crc="478454125" ref="part-4"/>
+    <file name="u3653-19.png" crc="4266924432" ref="part-4"/>
+    <file name="u3656-4.png" crc="453198670" ref="part-4"/>
+    <file name="u3655-11.png" crc="397731598" ref="part-4"/>
+    <file name="u3766-10.png" crc="4192935372" ref="part-4"/>
+    <file name="u3775-4.png" crc="206066078" ref="part-4"/>
+    <file name="u3777-4.png" crc="504221141" ref="part-4"/>
+    <file name="u3776-4.png" crc="3812214847" ref="part-4"/>
+  </folder>
+  <file name="index.html" crc="4030502598" mt="1414677413791" redirect="true"/>
+  <file name="part-1.html" crc="384665678" mt="1414676329582" redirect="true"/>
+  <file name="part-2.html" crc="344427432" mt="1414676339103" redirect="true"/>
+  <file name="part-3.html" crc="3760011605" mt="1414676320163" redirect="true"/>
+  <file name="part-4.html" crc="489012131" mt="1414676352094" redirect="true"/>
+</manifest>
